@@ -49,6 +49,7 @@
 		A6A846C82CF330E300F11B4D /* LearnTCAUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnTCAUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A6A846D82CF331AD00F11B4D /* CounterFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterFeature.swift; sourceTree = "<group>"; };
 		A6A846DA2CF3337200F11B4D /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		A6A846DC2CF34E8A00F11B4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		A6A846AA2CF330E200F11B4D /* LearnTCA */ = {
 			isa = PBXGroup;
 			children = (
+				A6A846DC2CF34E8A00F11B4D /* Info.plist */,
 				A6A846AB2CF330E200F11B4D /* LearnTCAApp.swift */,
 				A6A846AD2CF330E200F11B4D /* ContentView.swift */,
 				A6A846AF2CF330E300F11B4D /* Assets.xcassets */,
@@ -441,6 +443,7 @@
 				DEVELOPMENT_TEAM = 5LSQ3C9W8U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LearnTCA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -470,6 +473,7 @@
 				DEVELOPMENT_TEAM = 5LSQ3C9W8U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LearnTCA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
